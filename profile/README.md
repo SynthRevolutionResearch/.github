@@ -8,11 +8,11 @@
  - [All-In-One](https://github.com/SynthRevolutionResearch/SynthAIO)
  - [mechanical & electrical](https://github.com/SynthRevolutionResearch/SynthResearch-electromechanical)
  - [firmware & software](https://github.com/SynthRevolutionResearch/SynthResearch-code)
- - ["True AI"]()
+ - ["True AI"](*WIP*)
  - [Obsidian storage](https://github.com/SynthRevolutionResearch/obsidian-vault)  
  [get obsidian there](https://obsidian.md/)       
  **sub-cat's:**
- - [CAD mechanical files]() 
+ - [CAD mechanical files](*WIP*) 
 
 
  ## Autors & donators
