@@ -18,7 +18,7 @@
  ## Autors & donators
 **TBD**    
 
-**Big thanks to all our donators, researchers, and mainteiners!**
+**Big thanks to all our donators, researchers, and mainteiners!**  
 **TBD**    
 
 # Subscribe & support us on:
