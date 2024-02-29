@@ -9,7 +9,7 @@
  - [mechanical & electrical](https://github.com/SynthRevolutionResearch/SynthResearch-electromechanical)
  - [firmware & software](https://github.com/SynthRevolutionResearch/SynthResearch-code)
  - ["True AI"]()
- - ["Obsidian storage"](https://github.com/SynthRevolutionResearch/obsidian-vault)  
+ - [Obsidian storage](https://github.com/SynthRevolutionResearch/obsidian-vault)  
  [get obsidian there](https://obsidian.md/)       
  **sub-cat's:**
  - [CAD mechanical files]() 
